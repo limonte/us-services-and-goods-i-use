@@ -6,7 +6,7 @@ Ideally, there should be 0. But it des seem impossible ATM.
 
 ### GitHub 
 
-- Good alternatives: none ❌
+- Good alternatives: none ❌ what could go wrong with putting everything in US-owned MS-owned SPOF?
 
 ### MacBook
 
