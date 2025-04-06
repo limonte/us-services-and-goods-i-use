@@ -1,8 +1,8 @@
-# The list of US services and good I use
+# The list of US services and good I use (+ alternatives)
 
 This list is created to keep track of the US dependencies I use. 
 
-Ideally, there should be 0. But it des seem impossible ATM.
+Ideally, there should be 0. It des seem really challenging.
 
 ### GitHub 
 
