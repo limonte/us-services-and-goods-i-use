@@ -2,7 +2,7 @@
 
 This list is created to keep track of the US dependencies I use. 
 
-Ideally, there should be 0. It des seem really challenging.
+Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### GitHub 
 
