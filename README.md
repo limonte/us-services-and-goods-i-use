@@ -22,7 +22,11 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### Cloudflare
 
-- Good alternatives: didn't do the research yet, but I hope there
+- Good alternatives: TODO the research
+
+### Stripe
+
+- Good alternatives: TODO the research
 
 ### Gmail
 
