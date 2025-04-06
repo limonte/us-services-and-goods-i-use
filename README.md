@@ -39,9 +39,20 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 > And that one company is also the largest advertising company in the world.
 > What could possibly go wrong?
 
-- ✅ Migrated to [Plausible](https://plausible.io/) (Made and hosted in the EU 🇪🇺) for SweetAlert2: https://plausible.io/sweetalert2.github.io
+- ✅ Migrated SweetAlert2 to [Plausible](https://plausible.io/) (Made and hosted in the EU 🇪🇺): https://plausible.io/sweetalert2.github.io
 - ✅ Migrated personal projects to [self-hosted Matomo](https://matomo.org/guide/installation-maintenance/matomo-on-premise-self-hosted/)
 
 ### Google Photos
 
 - Good Alternatives: self-hosted https://github.com/immich-app/immich/ 👍
+
+### Google Fonts
+
+Just don't. Absolutely no reasons [to make your software illegal](https://thehackernews.com/2022/01/german-court-rules-websites-embedding.html). Spend 10 minutes to install npm deps instead.
+
+```diff
+- @import url('https://fonts.googleapis.com/css?family=Montserrat');
+- @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro'); // Source Code Pro font
++ @import '@fontsource/montserrat/latin-400.css';
++ @import '@fontsource/source-code-pro/latin-400.css';
+```
