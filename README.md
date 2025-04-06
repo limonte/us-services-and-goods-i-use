@@ -34,16 +34,13 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### Google Analytics
 
-- Good Alternatives:
-  - https://plausible.io/ (Made and hosted in the EU 🇪🇺) 👍
-  - https://matomo.org/guide/installation-maintenance/matomo-on-premise-self-hosted/ (self-hosted) 👍
-
-> https://plausible.io/vs-google-analytics
->
 > Google Analytics is installed on and is tracking website traffic on 85% of all websites.
 > A majority of web traffic is tracked by a single company.
 > And that one company is also the largest advertising company in the world.
 > What could possibly go wrong?
+
+- ✅ Migrated to [Plausible](https://plausible.io/) (Made and hosted in the EU 🇪🇺) for SweetAlert2: https://plausible.io/sweetalert2.github.io
+- ✅ Migrated personal projects to [self-hosted Matomo](https://matomo.org/guide/installation-maintenance/matomo-on-premise-self-hosted/)
 
 ### Google Photos
 
