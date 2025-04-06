@@ -30,7 +30,9 @@ Ideally, there should be 0. But it des seem impossible ATM.
 
 ### Google Analytics
 
-- Good Alternatives: https://plausible.io/ (Made and hosted in the EU 🇪🇺) 👍
+- Good Alternatives:
+  - https://plausible.io/ (Made and hosted in the EU 🇪🇺) 👍
+  - https://matomo.org/guide/installation-maintenance/matomo-on-premise-self-hosted/ (self-hosted) 👍
 
 > https://plausible.io/vs-google-analytics
 >
