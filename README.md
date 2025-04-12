@@ -1,4 +1,4 @@
-# The list of US services and good I use (+ alternatives)
+# The list of US services, software, and goods I use (+ their non-US alternatives)
 
 This list is created to keep track of the US dependencies I use. 
 
@@ -30,7 +30,7 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### Gmail
 
-- Good alternatives: ProtonMail 🇨🇭
+- Solid alternative: ProtonMail 🇨🇭
 
 ### Google Analytics
 
@@ -45,6 +45,10 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 ### Google Photos
 
 - Good Alternatives: self-hosted https://github.com/immich-app/immich/ 👍
+
+### Laravel Held
+
+- Solid cross-platform alternative: https://github.com/ddev/ddev
 
 ### Google Fonts
 
