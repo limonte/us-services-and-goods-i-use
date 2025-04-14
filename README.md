@@ -32,6 +32,10 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 - Solid alternative: ProtonMail 🇨🇭
 
+### ChatGPT
+
+- ✅ [Ollama](https://github.com/ollama/ollama) + [mistral-small3.1](https://ollama.com/search) + [open-webui](https://github.com/open-webui/open-webui)
+
 ### Google Analytics
 
 > Google Analytics is installed on and is tracking website traffic on 85% of all websites.
