@@ -34,7 +34,7 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### ChatGPT
 
-- ✅ [Ollama](https://github.com/ollama/ollama) + [mistral-small3.1](https://ollama.com/search) + [open-webui](https://github.com/open-webui/open-webui)
+- ✅ [Ollama](https://github.com/ollama/ollama) + [open-webui](https://github.com/open-webui/open-webui)
 
 ### Google Analytics
 
