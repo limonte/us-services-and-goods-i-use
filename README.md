@@ -50,7 +50,7 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 - Good Alternatives: self-hosted https://github.com/immich-app/immich/ 👍
 
-### Laravel Held
+### Laravel Herd
 
 - Solid cross-platform alternative: https://github.com/ddev/ddev
 
