@@ -45,7 +45,7 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 Very good alternatives:
 
-- https://tinylytics.app/ 🇳🇱
+- https://tinylytics.app/ 🇳🇱 ($5/month, that’s basically the price we’re selling ourselves to google for their “free” analytics)
 - https://pirsch.io/ 🇩🇪
 - https://plausible.io/ 🇪🇪
 
