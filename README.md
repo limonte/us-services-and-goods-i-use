@@ -45,9 +45,9 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 Very good alternatives:
 
-- https://tinylytics.app/
-- https://pirsch.io/
-- https://plausible.io/
+- https://tinylytics.app/ 🇳🇱
+- https://pirsch.io/ 🇩🇪
+- https://plausible.io/ 🇪🇪
 
 ### Google Photos
 
