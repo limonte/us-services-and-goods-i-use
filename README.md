@@ -43,7 +43,8 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 > And that one company is also the largest advertising company in the world.
 > What could possibly go wrong?
 
-- ✅ Migrated SweetAlert2 to [Plausible](https://plausible.io/) (Made and hosted in the EU 🇪🇺): https://plausible.io/sweetalert2.github.io
+- ~✅ Migrated SweetAlert2 to [Plausible](https://plausible.io/): https://plausible.io/sweetalert2.github.io~
+- ✅ Migrated SweetAlert2 to [Pirsch](https://pirsch.io/): [https://plausible.io/sweetalert2.github.io](https://sweetalert2.pirsch.io/)
 - ✅ Migrated personal projects to [self-hosted Matomo](https://matomo.org/guide/installation-maintenance/matomo-on-premise-self-hosted/)
 
 ### Google Photos
