@@ -55,7 +55,7 @@ Very good alternatives:
 
 ### Laravel Herd
 
-- Solid cross-platform alternative: https://github.com/ddev/ddev
+- ✅ Migrated to ddev: https://github.com/ddev/ddev
 
 ### Google Fonts
 
