@@ -10,7 +10,9 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### MacBook
 
-- Good Alternatives: Lenovo ThinkPad + Linux (is Linux Mint still good for me as it was in good old days?)
+- Good Alternatives: Lenovo ThinkPad + Linux
+  - is Linux Mint still good for me as it was in good old days?
+  - or maybe Linux from DHH? https://www.youtube.com/watch?v=DC2p3kFjcK0
 
 ### iPhone
 
