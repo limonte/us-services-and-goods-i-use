@@ -6,7 +6,7 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 
 ### GitHub 
 
-- Good alternatives: none ❌ What could go wrong with US-owned MS-owned SPOF? 🤦
+- Well, there's no escape from GitHub. This I have to accept.
 
 ### MacBook
 
