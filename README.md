@@ -45,6 +45,8 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 > And that one company is also the largest advertising company in the world.
 > What could possibly go wrong?
 
+- ✅ Migrated to self hosted Umami: https://github.com/umami-software/umami
+
 Very good alternatives:
 
 - https://tinylytics.app/ 🇳🇱 ($5/month, that’s basically the price we’re selling ourselves to google for their “free” analytics)
