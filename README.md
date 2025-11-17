@@ -2,8 +2,6 @@
 
 This list is created to keep track of the US dependencies I use. 
 
-Ideally, there should be 0. It does seem really challenging, but not impossible.
-
 ### GitHub 
 
 - Well, there's no escape from GitHub. This I have to accept.
@@ -42,12 +40,6 @@ Ideally, there should be 0. It does seem really challenging, but not impossible.
 > What could possibly go wrong?
 
 - ✅ Migrated to self hosted Umami: https://github.com/umami-software/umami
-
-Very good alternatives:
-
-- https://tinylytics.app/ 🇳🇱 ($5/month, that’s basically the price we’re selling ourselves to google for their “free” analytics)
-- https://pirsch.io/ 🇩🇪
-- https://plausible.io/ 🇪🇪
 
 ### Google Photos
 
