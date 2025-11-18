@@ -34,11 +34,6 @@ This list is created to keep track of the US dependencies I use.
 
 ### Google Analytics
 
-> Google Analytics is installed on and is tracking website traffic on 85% of all websites.
-> A majority of web traffic is tracked by a single company.
-> And that one company is also the largest advertising company in the world.
-> What could possibly go wrong?
-
 - ✅ Migrated to self hosted Umami: https://github.com/umami-software/umami
 
 ### Google Photos
